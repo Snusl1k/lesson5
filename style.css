@@ -10,8 +10,8 @@ table{
    margin: 0 auto;
     
 }
-.red__text:hover{
-    color: red;
+td:hover{
+    border-left-color: aqua;
 }
 td{
     height: 100px;
